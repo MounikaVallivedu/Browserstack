@@ -1,0 +1,84 @@
+
+Sun Dec 29 2024 23:18:50:613 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 7912
+Sun Dec 29 2024 23:18:50:934 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Dec 29 2024 23:18:51:12 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Sun Dec 29 2024 23:18:51:774 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+
+Sun Dec 29 2024 23:28:12:836 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 19156
+Sun Dec 29 2024 23:28:13:39 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Dec 29 2024 23:28:13:194 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Sun Dec 29 2024 23:28:14:37 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Sun Dec 29 2024 23:29:49:803 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 25204
+Sun Dec 29 2024 23:29:50:9 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Dec 29 2024 23:29:50:11 GMT+0530 (India Standard Time) -- Received runtime exception: Error: write EPIPE
+    at afterWriteDispatched (internal/stream_base_commons.js:78:25)
+    at writeGeneric (internal/stream_base_commons.js:73:3)
+    at Socket._writeGeneric (net.js:714:5)
+    at Socket._write (net.js:726:8)
+    at doWrite (_stream_writable.js:415:12)
+    at writeOrBuffer (_stream_writable.js:399:5)
+    at Socket.Writable.write (_stream_writable.js:299:11)
+    at bslocal.js:1:12110568
+    at Array.forEach (<anonymous>)
+    at i (bslocal.js:1:12110534)
+Sun Dec 29 2024 23:29:50:11 GMT+0530 (India Standard Time) -- Exiting.
+Sun Dec 29 2024 23:29:50:119 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Sun Dec 29 2024 23:29:50:426 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Sun Dec 29 2024 23:34:13:856 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 14060
+Sun Dec 29 2024 23:34:14:68 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Dec 29 2024 23:34:14:208 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Sun Dec 29 2024 23:34:15:68 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Sun Dec 29 2024 23:36:04:794 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 28076
+Sun Dec 29 2024 23:36:05:11 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Dec 29 2024 23:36:05:158 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Sun Dec 29 2024 23:36:05:952 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Sun Dec 29 2024 23:38:37:795 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 24924
+Sun Dec 29 2024 23:38:37:995 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Dec 29 2024 23:38:38:103 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Sun Dec 29 2024 23:38:38:944 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
+
+Sun Dec 29 2024 23:51:26:168 GMT+0530 (India Standard Time) -- [ERROR] Another instance of BrowserStack Binary is running with on your system with PID: 11348
+Sun Dec 29 2024 23:51:26:169 GMT+0530 (India Standard Time) -- [ERROR] Please close it and try again
+Sun Dec 29 2024 23:51:26:169 GMT+0530 (India Standard Time) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Dec 29 2024 23:51:26:173 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+
+Sun Dec 29 2024 23:51:50:821 GMT+0530 (India Standard Time) -- [ERROR] Another instance of BrowserStack Binary is running with on your system with PID: 11348
+Sun Dec 29 2024 23:51:50:822 GMT+0530 (India Standard Time) -- [ERROR] Please close it and try again
+Sun Dec 29 2024 23:51:50:822 GMT+0530 (India Standard Time) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Dec 29 2024 23:51:50:825 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+
+Sun Dec 29 2024 23:52:13:116 GMT+0530 (India Standard Time) -- [ERROR] Another instance of BrowserStack Binary is running with on your system with PID: 11348
+Sun Dec 29 2024 23:52:13:116 GMT+0530 (India Standard Time) -- [ERROR] Please close it and try again
+Sun Dec 29 2024 23:52:13:116 GMT+0530 (India Standard Time) -- [ERROR] SYS_CONFLICT:1001 https://browserstack.com/docs/local-testing/binary/errors/1001
+Sun Dec 29 2024 23:52:13:117 GMT+0530 (India Standard Time) -- You can learn more about BrowserStack Binary flags by running BrowserStackLocal.exe --help
+
+Sun Dec 29 2024 23:53:50:146 GMT+0530 (India Standard Time) -- [INFO] Started the BrowserStack Binary server on 45691, PID: 1608
+Sun Dec 29 2024 23:53:50:348 GMT+0530 (India Standard Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Sun Dec 29 2024 23:53:50:441 GMT+0530 (India Standard Time) -- Press Ctrl-C to exit
+
+
+Sun Dec 29 2024 23:53:51:288 GMT+0530 (India Standard Time) -- Starting configuration console on http://localhost:45454
